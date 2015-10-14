@@ -1,12 +1,12 @@
 This is a place to practice git.
 
-- **Learn to use git**:
-  - Go through the try git tutorial at https://try.github.io/levels/1/challenges/1
-  - Read the first two chapters of the book [Pro Git](http://git-scm.com/book/en/v2)
-
  Your exercise is to add your name to this list. To complete this exercise you need to:
 
-- **Fork the repo, create a new branch, make changes and send a pull request**
+- **Fork this repo, create a new branch, make changes and send a pull request**
+
+- **Learning resources**:
+  - Go through the try git tutorial at https://try.github.io/levels/1/challenges/1
+  - Learn about branching through from the interactive tutorial at http://pcottle.github.io/learnGitBranching/
   - [This guide by Github](https://help.github.com/articles/using-pull-requests/) should give you a good idea of what pull requests are how to use them.
 
 
@@ -55,6 +55,7 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 
 ### Other Resources
 
+* Book: [Pro Git](http://git-scm.com/book/en/v2)
 * Go through the [curated list of git resource](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
   provided by github to find other resources to fit your need.
 * Learn about hidden cool features of Git and Github: http://git.io/sheet.
