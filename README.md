@@ -26,6 +26,7 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Arafat Dad Khan [Arafatk](https://github.com/Arafatk)
 * Aranya Dan [aranyadan](http://github.com/aranyadan)
 * Arna Ghosh [arnaghosh](http://github.com/arnaghosh)
+* Arundhati Banerjee [b18arundhati](https://github.com/b18arundhati)
 * Barnopriyo Barua [barno0695](http://github.com/barno0695)
 * Chinmoy Samant [chinmoysam](https://github.com/chinmoysam)
 * Harsh Gupta [hargup](http://github.com/hargup)
