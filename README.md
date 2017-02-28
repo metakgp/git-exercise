@@ -12,7 +12,7 @@ This is a place to practice git.
 
 Your entry should maintain alphabetic order and it should be in the format:
 
-`* your name [username](http://github.com/username)`. 
+`* your name [username](http://github.com/username)`.
 
 This file is written in the [Markdown format](https://guides.github.com/features/mastering-markdown/).
 
@@ -29,6 +29,7 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Arna Ghosh [arnaghosh](http://github.com/arnaghosh)
 * Arundhati Banerjee [b18arundhati](https://github.com/b18arundhati)
 * Barnopriyo Barua [barno0695](http://github.com/barno0695)
+* Chinmaya Pancholi [chinmayapancholi13](https://github.com/chinmayapancholi13)
 * Chinmoy Samant [chinmoysam](https://github.com/chinmoysam)
 * Harsh Gupta [hargup](http://github.com/hargup)
 * Jatin Arora [jatinarora2702](https://github.com/jatinarora2702)
@@ -47,7 +48,7 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Rameshwar Bhaskaran [zorroblue](https://github.com/zorroblue)
 * Rohan Rajak [rajakrohan](https://github.com/rajakrohan)
 * Satyesh Mundra [satyeshmundra](https://github.com/satyeshmundra)
-* Shaswat Datta [Shaswat27] (http://github.com/Shaswat27) 
+* Shaswat Datta [Shaswat27] (http://github.com/Shaswat27)
 * Siddharth Kannan [icyflame](http://github.com/icyflame)
 * Srichandra [srichandra](https://github.com/srichandra)
 * Joseph Nii Lante Lamptey [niiwade](https://github.com/niiwade)
