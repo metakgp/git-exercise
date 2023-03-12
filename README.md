@@ -48,6 +48,7 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Rameshwar Bhaskaran [zorroblue](https://github.com/zorroblue)
 * Rohan Rajak [rajakrohan](https://github.com/rajakrohan)
 * Satyesh Mundra [satyeshmundra](https://github.com/satyeshmundra)
+* Sharanya Chakraborty [destryptor](https://github.com/destryptor)
 * Shaswat Datta [Shaswat27] (http://github.com/Shaswat27)
 * Siddharth Kannan [icyflame](http://github.com/icyflame)
 * Srichandra [srichandra](https://github.com/srichandra)
