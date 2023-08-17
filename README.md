@@ -54,7 +54,7 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Joseph Nii Lante Lamptey [niiwade](https://github.com/niiwade)
 * Utkarsh Gupta [khalibartan](https://github.com/khalibartan)
 * Vineet Jain [RaptimusPrime](https://github.com/RaptimusPrime)
-
+* Sujan Jain [jainsujan11](https://github.com/jainsujan11)
 
 
 ### Other Resources
